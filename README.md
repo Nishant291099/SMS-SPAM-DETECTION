@@ -8,7 +8,7 @@ This repository contains a machine learning model that can be used to detect SMS
 
 To use the model, you will need to install the following Python libraries:
 
-numpy
-pandas
-scikit-learn
-streamlit
+* numpy
+*  pandas
+* scikit-learn
+* streamlit
